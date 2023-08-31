@@ -16,4 +16,5 @@ The purpose of this project is to practice the new techniques learned in this we
 ## Contributing
 
 Classwork --> I used class activities as a skeleton structure to base my steps off of.
+Office Hours --> Got help with the storing the data from the scraped website into a dataframe
 
